@@ -1,5 +1,4 @@
-Hola, soy @jmim25 Juan Miguel Isidoro Moreno
-desarrollo en php / javascript / sql 
-actualmente inicio con react / laravel 8 
-mientras trabajo para conceptoRH 
-en la automatización de procesos.
+Juan Miguel Isidoro Moreno
+desarrollos a medida en php / javascript / mysql 
+
+Uso CodeIgniter 4 / Larabel / Bootstrap / Material UI
