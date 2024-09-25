@@ -1,5 +1,10 @@
 Juan Miguel Isidoro Moreno
 
-Desarrollos a medida en php / mysql 
+Desarrollos a medida en 
 
-Uso CodeIgniter 4 / Laravel / Bootstrap / Material UI
+PHP / MYSQL / SQLite 
+
+CodeIgniter 4 / Laravel 11 
+
+
+The future is open !!!! 
